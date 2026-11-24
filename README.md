@@ -6,6 +6,6 @@ The Agent uses a simpleQNetwork class utilizing backpropogation to run system re
 
 # Code Dependencies
 The code requires the following libraries 
-. [Anaconda/ Miniconda]
-. [Gymnasium]
-. [Numpy], [Deque], [Random], [Copy]
+- [Anaconda/ Miniconda]
+- [Gymnasium]
+- [Numpy], [Deque], [Random], [Copy]
